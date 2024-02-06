@@ -1,0 +1,2 @@
+# TheOtherUs-Chinese
+将TheOtherUs汉化上传至GitHub以完成汉化的云更新

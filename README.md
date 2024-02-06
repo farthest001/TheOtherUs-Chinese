@@ -3,7 +3,7 @@
 # 发布版
 | Among Us - 版本 | 已汉化版 | Link |
 |----------|-------------|-----------------|
-| 2023.11.28s| v1.3.0| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
+| 2023.11.28s| v1.3.3| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
 </details>
 
 **感谢前来下载**
@@ -14,7 +14,7 @@ Modified by Spex
 模组作者:Spex
 Be based on The Other Roles Community Edition
 基于The Other Roles Community Edition，The Other Roles Community Edition基于The Other Roles
-**1.3.0版本**
+**1.3.3版本**
 -更新至《我们之中》版本2023.11.28（带有新地图，Fungle）
 -增加了一个新功能：在地图上显示通风口（在本地选项中切换）
 -增加了一个新的杀伤距离：极短（感谢twix）

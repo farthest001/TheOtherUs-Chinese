@@ -1,11 +1,13 @@
 # TheOtherUs-Chinese
 将TheOtherUs汉化上传至GitHub以完成汉化的云更新
-# Releases
+# 发布版
 | Among Us - Version| 已汉化版 | Link |
 |----------|-------------|-----------------|
 | 2023.11.28s| v1.3.0| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
 </details>
-**模组信息**
+
+**感谢前来下载**
+# 模组信息
 Modified by Spex
 模组作者:Spex
 Be based on The Other Roles Community Edition

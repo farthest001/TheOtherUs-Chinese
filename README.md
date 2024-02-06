@@ -8,7 +8,7 @@
 
 **感谢前来下载**
 # 模组信息
-| Among Us - Version|
+| 汉化和原版|
 |---------------|
 Modified by Spex
 模组作者:Spex

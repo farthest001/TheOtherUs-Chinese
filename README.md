@@ -8,8 +8,8 @@
 
 **感谢前来下载**
 # 模组信息
-| Among Us - Version| 已汉化版 | Link |
-|----------|-------------|-----------------|
+| Among Us - Version|
+|---------------|
 Modified by Spex
 模组作者:Spex
 Be based on The Other Roles Community Edition

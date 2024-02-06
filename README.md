@@ -29,9 +29,9 @@ Be based on The Other Roles Community Edition
 美工:方块和毒液
 汉化:方块
 游玩欢迎加群805390622
-  
-**部分原因，汉化源码暂无法公开**
-**Due to some reasons, the Chinese source code cannot be made public at the moment**
-**特别感谢模组作者Spex公开模组源码**
-**Special thanks to module author Spex for releasing the module source code**
-**If you are't chinese please exit this GitHub repository,because this GitHub repository is Chinese version of mod**
+  <br>
+**部分原因，汉化源码暂无法公开**<br>
+**Due to some reasons, the Chinese source code cannot be made public at the moment**<br>
+**特别感谢模组作者Spex公开模组源码**<br>
+**Special thanks to module author Spex for releasing the module source code**<br>
+**If you are't chinese please exit this GitHub repository,because this GitHub repository is Chinese version of mod**<br>

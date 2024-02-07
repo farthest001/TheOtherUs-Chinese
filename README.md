@@ -1,9 +1,9 @@
 # TheOtherUs-Chinese
 将TheOtherUs汉化上传至GitHub以完成汉化的云更新
 # 发布版
-| Among Us - 版本 | 已汉化版 | Link |
+| Among Us - 版本 | 已汉化版 | GitHub下载 | Gitee下载(国内) |
 |----------|-------------|-----------------|
-| 2023.11.28s| v1.3.3| [下载](https://github.com/farthest001/TheOtherUs-Chinese/releases/download/v1.3.3/TheOtherUs.v1.3.3.zip)
+| 2023.11.28s| v1.3.3| [下载GitHUb](https://github.com/farthest001/TheOtherUs-Chinese/releases/download/v1.3.3/TheOtherUs.v1.3.3.zip)[下载Gitee(国内)]([https://github.com/farthest001/TheOtherUs-Chinese/releases/download/v1.3.3/TheOtherUs.v1.3.3.zip](https://gitee.com/kuai-fang/the-other-us-chinese-version/releases/download/v1.3.3/TheOtherUs.v1.3.3.zip))
 </details>
 
 **感谢前来下载**

@@ -3,7 +3,7 @@
 # 发布版
 | Among Us - 版本 | 已汉化版 | Link |
 |----------|-------------|-----------------|
-| 2023.11.28s| v1.3.3| [下载](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/download/v4.5.1/TheOtherRoles.zip)
+| 2023.11.28s| v1.3.3| [下载](https://github.com/farthest001/TheOtherUs-Chinese/releases/download/v1.3.3/TheOtherUs.v1.3.3.zip)
 </details>
 
 **感谢前来下载**

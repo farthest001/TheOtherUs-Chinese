@@ -18,7 +18,7 @@ Be based on The Other Roles Community Edition
 -更新至《我们之中》版本2023.11.28（带有新地图，Fungle）
 -增加了一个新功能：在地图上显示通风口（在本地选项中切换）
 -增加了一个新的杀伤距离：极短（感谢twix）
--在设置中添加了更改游戏模式的功能：`/gm＜gamemode>`（仅限房主）
+-在设置中添加了更改游戏模式的功能：`/gm <gamemode>`（仅限房主）
 -修正了宠物可见性有时会被扭曲的错误
 -修复了HatLoader-测试帽子应该可以再次工作（感谢EnoPM）
 -更改了HatLoader-加载帽子不再需要重新启动mod

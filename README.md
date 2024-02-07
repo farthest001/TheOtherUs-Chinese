@@ -26,7 +26,7 @@ Be based on The Other Roles Community Edition
 -改变了吸血鬼：如果目标使用梯子、平台或滑索，杀戮将延迟一段时间
 -注：尚未测试与浸没式和LevelImposter的兼容性。
 **汉化人员**
-美工:方块和毒液
+美工:方块
 汉化:方块
 游玩欢迎加群805390622
 

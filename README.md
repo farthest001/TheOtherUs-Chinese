@@ -3,12 +3,6 @@
 
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
-<p align="center">
-  To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a></p>
-
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
-![eisbison infographic](./Images/TOR_Roles.png)
-
 
 # TheOtherUs-Chinese
 将TheOtherUs汉化上传至GitHub以完成汉化的云更新

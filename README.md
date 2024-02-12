@@ -29,6 +29,7 @@ Be based on The Other Roles Community Edition
 美工:方块
 汉化:方块
 翻译帮助:沫夏悠轩
+美工帮助:毒液(部分图标来自毒液)
 游玩欢迎加群805390622
 
 **部分原因，汉化源码暂无法公开**<br>
